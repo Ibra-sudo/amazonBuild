@@ -5,7 +5,7 @@ module.exports = {
     "./src/components/**/*.{js,ts,jsx,tsx}",
   ],
   darkMode: false, // or 'media' or 'class'
-  theme: {
+  theme: { 
     extend: {
       colors: {
         amazon_blue: {
