@@ -15,7 +15,7 @@ export default function Home({ products }) {
         {/* Panner */}
         <Banner />
         {/* ProductFeed */}
-        <ProductFeed products={products} />
+        <ProductFeed products={products   } />
       </main>
     </div>
   );
